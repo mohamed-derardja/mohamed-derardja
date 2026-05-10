@@ -307,4 +307,4 @@ const mohamed = {
 <!-- ═══════════════════ ANIMATED FOOTER ═══════════════════ -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:020617,20:0f172a,50:0ea5e9,80:6366f1,100:22c55e&animation=twinkling" width="100%" alt="Footer" />
-[![committers.top badge](https://user-badge.committers.top/algeria/mohamed-derardja.svg)](https://user-badge.committers.top/algeria/mohamed-derardja)
+[![committers.top badge](https://user-badge.committers.top/algeria/USERNAME.svg)](https://user-badge.committers.top/algeria/mohamed-derardja)
